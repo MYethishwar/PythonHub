@@ -39,7 +39,15 @@ Welcome to PythonHub! Below are the projects created up to now:
 **Description**: A tool that generates random passwords based on user preferences for the number of letters, symbols, and numbers.
 
 [Password Generator](https://github.com/MYethishwar/PythonHub/tree/main/Password%20Generator(Beginner))
+<<<<<<< HEAD
 ---
 
 
 ##The Repository is currently in progress and has not yet been completed.
+=======
+
+---
+
+
+##The Repository is currently in progress and has not yet been completed.
+>>>>>>> 875a83f3212c3a5699752236d7c489f40645d0db
