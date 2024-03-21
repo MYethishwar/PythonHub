@@ -28,6 +28,18 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 [Treasure Island Adventure](https://github.com/MYethishwar/PythonHub/tree/main/Treasure%20Island%20Adventure(Beginner))
 
+### Project 5: Rock Paper Scissors
+
+**Description**: A classic game where players choose between rock, paper, or scissors, aiming to beat their opponent's choice.
+
+[Rock Paper Scissors](https://github.com/MYethishwar/PythonHub/tree/main/Rock%20Paper%20Scissors(Beginner))
+
+### Project 6: Password Generator
+
+**Description**: A tool that generates random passwords based on user preferences for the number of letters, symbols, and numbers.
+
+[Password Generator](https://github.com/MYethishwar/PythonHub/tree/main/Password%20Generator(Beginner))
 ---
+
 
 ##The Repository is currently in progress and has not yet been completed.
