@@ -46,4 +46,10 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 [Escaping the Maze](https://github.com/MYethishwar/PythonHub/tree/main/Escaping%20the%20Maze(Beginner))
 
+### Project 8: Hangman Game
+
+**Description**: Guess the hidden word by inputting letters before running out of lives.
+
+[Hangman Game](https://github.com/MYethishwar/PythonHub/tree/main/Hangman(Beginner))
+
 ## The Repository is currently in progress and has not yet been completed.
