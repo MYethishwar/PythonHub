@@ -50,6 +50,8 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 **Description**: Guess the hidden word by inputting letters before running out of lives.
 
+[Hangman Game](https://github.com/MYethishwar/PythonHub/tree/main/Hangman(Beginner))
+
 ### Project 9: Caesar Cipher
 
 **Description**:  An interactive challenge where players encode and decode secret messages using the classic Caesar Cipher encryption technique.
