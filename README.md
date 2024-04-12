@@ -58,4 +58,10 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 [Caesar Game](https://github.com/MYethishwar/PythonHub/tree/main/Caesar%20Cipher(Beginner))
 
+### Project 10: Secret Auction
+
+**Description**:  Secret Auction" is a Python program enabling participants to anonymously bid on items, with the highest bidder winning while maintaining their bid amount confidential to others.
+
+[Secret Auction](https://github.com/MYethishwar/PythonHub/tree/main/Secret%20Auction(Beginner))
+
 ### The Repository is currently in progress and has not yet been completed.
