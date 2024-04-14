@@ -64,4 +64,10 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 [Secret Auction](https://github.com/MYethishwar/PythonHub/tree/main/Secret%20Auction(Beginner))👈
 
-### The Repository is currently in progress and has not yet been completed.
+### Project 11: Calculator 
+
+**Description**:  A Python calculator project incorporating basic arithmetic operations, recursion, and documentation strings for clarity and usability.
+
+[Calculator](https://github.com/MYethishwar/PythonHub/tree/main/Calculator(Beginner))👈
+
+## The Repository is currently in progress and has not yet been completed.
