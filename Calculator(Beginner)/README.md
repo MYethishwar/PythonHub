@@ -1,4 +1,4 @@
-# CALCULATOR Project
+# Calculator Project
 
 ## Topics Covered:
 
