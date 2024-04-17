@@ -17,3 +17,45 @@ In programming, `print` is like showing your work to someone, while `return` is 
 ### 3. DOC Strings
 
 DOC Strings are like little notes you write to yourself and others to explain what your code does. They help you understand your code better and make it easier for others to use it. It's like writing instructions for a game so that anyone can play it without getting confused.
+## Sample Output
+
+```plaintext
+
+
+ _____________________
+|  _________________  |
+| | Pythonista   0. | |  .----------------.  .----------------.  .----------------.  .----------------. 
+| |_________________| | | .--------------. || .--------------. || .--------------. || .--------------. |
+|  ___ ___ ___   ___  | | |     ______   | || |      __      | || |   _____      | || |     ______   | |
+| | 7 | 8 | 9 | | + | | | |   .' ___  |  | || |     /  \     | || |  |_   _|     | || |   .' ___  |  | |
+| |___|___|___| |___| | | |  / .'   \_|  | || |    / /\ \    | || |    | |       | || |  / .'   \_|  | |
+| | 4 | 5 | 6 | | - | | | |  | |         | || |   / ____ \   | || |    | |   _   | || |  | |         | |
+| |___|___|___| |___| | | |  \ `.___.'\  | || | _/ /    \ \_ | || |   _| |__/ |  | || |  \ `.___.'\  | |
+| | 1 | 2 | 3 | | x | | | |   `._____.'  | || ||____|  |____|| || |  |________|  | || |   `._____.'  | |
+| |___|___|___| |___| | | |              | || |              | || |              | || |              | |
+| | . | 0 | = | | / | | | '--------------' || '--------------' || '--------------' || '--------------' |
+| |___|___|___| |___| |  '----------------'  '----------------'  '----------------'  '----------------' 
+|_____________________|
+
+What's the first number? 10
++
+-
+*
+/
+Pick an operation:/
+What's the next number? 5
+10.0 / 5.0 = 2.0
+
+'Y' ---> To calculate with 2.0.
+'N' ---> To start from Starting.
+'E' ---> To exit.
+ENTER HERE ---> y
+Pick an operation:*
+What's the next number? 5
+2.0 * 5.0 = 10.0
+
+'Y' ---> To calculate with 10.0.
+'N' ---> To start from Starting.
+'E' ---> To exit.
+ENTER HERE ---> e
+Thank You for using Yethsihwar's Calculator.
