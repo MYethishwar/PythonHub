@@ -46,3 +46,36 @@ The Secret Auction Project is a Python program designed to facilitate secret bid
 ## Conclusion
 
 This Document provides an overview of how dictionaries are used in the provided Python code snippet for the Secret Auction Project. It demonstrates how dictionaries can be used to store and manipulate data efficiently, making them suitable for various real-world applications, such as the bidding program in this example.
+
+## Sample Output
+
+```plaintext
+                         ___________
+                         \         /
+                          )_______(
+                          |"""""""|_.-._,.---------.,_.-._
+                          |       | | |               | | ''-.
+                          |       |_| |_             _| |_..-'
+                          |_______| '-' `'---------'` '-'
+                          )"""""""(
+                         /_________\\
+                       .-------------.
+                      /_______________\\
+
+
+What is your name?: Yethishwar
+What's your Bid amount: $2000
+Are there any other bidders? Type 'Yes' or 'No': no
+---------- Clear Screen ----------------------
+What is your name?: Chintu
+What's your Bid amount: $1000
+Are there any other bidders? Type 'Yes' or 'No': no
+---------- Clear Screen ----------------------
+What is your name?: Preeti
+What's your Bid amount: $5000
+Are there any other bidders? Type 'Yes' or 'No': no
+---------- Clear Screen ----------------------
+What is your name?: peter
+What's your Bid amount: $10
+Are there any other bidders? Type 'Yes' or 'No': no
+The Winner is Preeti with a bid of $5000
