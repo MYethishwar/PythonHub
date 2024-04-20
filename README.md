@@ -70,10 +70,10 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 #### [Calculator](https://github.com/MYethishwar/PythonHub/tree/main/Calculator(Beginner))👈
 
-### Project 12: BlackJack 
+### Project 12: BlackJack Game
 
 **Description**:  The Blackjack game is a card game where players aim to get cards with a total value as close to 21 as possible without exceeding it.
 
-#### [BlackJack](https://github.com/MYethishwar/PythonHub/tree/main/012-BlackJack(Beginner))👈
+#### [BlackJack Game](https://github.com/MYethishwar/PythonHub/tree/main/012-BlackJack(Beginner))👈
 
 ## The Repository is currently in progress and has not yet been completed.
