@@ -76,4 +76,11 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 #### [BlackJack Game](https://github.com/MYethishwar/PythonHub/tree/main/012-BlackJack(Beginner))👈
 
+### Project 13: Make a Guess Game
+
+**Description**:  The player has to guess a randomly generated number between 1 and 100. The game offers two difficulty levels: easy and hard.
+
+#### [Make a Guess Game](https://github.com/MYethishwar/PythonHub/tree/main/013-Make%20a%20Guess(Beginner))👈
+
+
 ## The Repository is currently in progress and has not yet been completed.
