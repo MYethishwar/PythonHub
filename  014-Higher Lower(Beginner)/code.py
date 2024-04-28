@@ -1,6 +1,6 @@
 
-from data import data 
-from Ascii_Art import logo,vs
+from Data import data 
+from Ascii_Art import logo, vs
 import random
 import os
 
