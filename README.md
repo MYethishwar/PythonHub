@@ -56,4 +56,4 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 **Description**:  The player has to guess a randomly generated number between 1 and 100. The game offers two difficulty levels: easy and hard.
 
-The Repository is currently in progress and has not yet been completed.
+### The Repository is currently in progress and has not yet been completed.
