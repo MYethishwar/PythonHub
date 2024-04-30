@@ -56,4 +56,8 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 **Description**:  The player has to guess a randomly generated number between 1 and 100. The game offers two difficulty levels: easy and hard.
 
+### Project 14: [Instagram Followers Game](https://github.com/MYethishwar/PythonHub/tree/main/014-Instagram%20Followers%20Game(Beginner)) 👈
+
+**Description**:  The playes has to Guess the person who has more followers each time the user wins the score will be incremented.
+
 ### The Repository is currently in progress and has not yet been completed.
