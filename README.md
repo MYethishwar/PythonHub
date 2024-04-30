@@ -2,7 +2,7 @@
 
 Welcome to PythonHub! Below are the projects created up to now:
 
-## Beginner Projects
+## Beginner Level Projects
 
 ### Project 1: [Band Name Generator](https://github.com/MYethishwar/PythonHub/tree/main/Band%20Name%20Generator(Beginner)) 👈
 
@@ -59,5 +59,7 @@ Welcome to PythonHub! Below are the projects created up to now:
 ### Project 14: [Instagram Followers Game](https://github.com/MYethishwar/PythonHub/tree/main/014-Instagram%20Followers%20Game(Beginner)) 👈
 
 **Description**:  The playes has to Guess the person who has more followers each time the user wins the score will be incremented.
+
+## Intermediate Projects
 
 ### The Repository is currently in progress and has not yet been completed.
