@@ -57,7 +57,6 @@ This is a simple Python program that quizzes users on which of two randomly sele
 ## Sample Output
 
 ```plaintext
-# Sample Output
 User
 Compare A: Selena Gomez, an American singer, from United States.
 Against B: Ashton Kutcher, an American actor, from United States.
