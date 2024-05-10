@@ -62,4 +62,8 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 ## Intermediate Projects
 
+### Project 15: [Coffee Machine](https://github.com/MYethishwar/PythonHub/tree/main/015-Coffee%20Machine(Intermediate)) 👈
+
+**Description**: Simple real life coffee machine simulator using simple understandable english statements.
+
 ### The Repository is currently in progress and has not yet been completed.
