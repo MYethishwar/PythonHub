@@ -8,3 +8,5 @@ example:- class:- waiter, objects:- Preethi, chintu, yethish.
 -> class names are defined in a way that each word starting with capital letter.(Pascal Case)
 ➡️Working with Turtle Graphics 
 Turtle Documentation  ----> 🔗https://docs.python.org/3/library/turtle.html
+➡️prettytable -? A simple python package used to represent data into simple structure like table using ASCII format.
+prettytable Documentation   ----> 🔗https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki
