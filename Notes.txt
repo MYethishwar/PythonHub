@@ -1,0 +1,10 @@
+❤️DAY-16❤️
+-------------------🌻 Object Oriented Programming🌻 --------------------------
+In object oriented programming we are trying to model the real life objects and do things.
+The things include
+1, Attributes:- in general It describes about what it has.
+2, Methods:- In general it is a function which tell about what an object does.
+example:- class:- waiter, objects:- Preethi, chintu, yethish.
+-> class names are defined in a way that each word starting with capital letter.(Pascal Case)
+➡️Working with Turtle Graphics 
+Turtle Documentation  ----> 🔗https://docs.python.org/3/library/turtle.html
