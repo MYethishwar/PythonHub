@@ -1,5 +1,5 @@
 ❤️DAY-16❤️
--------------------🌻 Object Oriented Programming🌻 --------------------------
+🌻 Object Oriented Programming🌻
 In object oriented programming we are trying to model the real life objects and do things.
 The things include
 1, Attributes:- in general It describes about what it has.
