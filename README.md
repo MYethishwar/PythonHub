@@ -66,4 +66,8 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 **Description**: Simple real life coffee machine simulator using simple understandable english statements.
 
-### The Repository is currently in progress and has not yet been completed.
+### Project 16: [Coffee Machine using OOP](https://github.com/MYethishwar/PythonHub/tree/main/016-Coffee%20Machine%20using%20OOP(Intermediate)) 👈
+
+**Description**: Simple real life coffee machine simulator using predefined classes.
+
+## The Repository is currently in progress and has not yet been completed.
