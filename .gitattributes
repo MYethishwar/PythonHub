@@ -1,0 +1,8 @@
+# Set Python files to be treated as text
+*.py text
+
+# Set line ending normalization for text files
+* text=auto
+
+# Specify merge strategy for specific files
+*.txt merge=union
