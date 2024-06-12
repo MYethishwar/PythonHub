@@ -60,10 +60,14 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 **Description**:  The playes has to Guess the person who has more followers each time the user wins the score will be incremented.
 
-## Intermediate Projects
+## Intermediate Level Projects
 
 ### Project 15: [Coffee Machine](https://github.com/MYethishwar/PythonHub/tree/main/015-Coffee%20Machine(Intermediate)) 👈
 
 **Description**: Simple real life coffee machine simulator using simple understandable english statements.
 
-### The Repository is currently in progress and has not yet been completed.
+### Project 16: [Coffee Machine using OOP](https://github.com/MYethishwar/PythonHub/tree/main/016-Coffee%20Machine%20using%20OOP(Intermediate)) 👈
+
+**Description**: Simple real life coffee machine simulator using predefined classes.
+
+## The Repository is currently in progress and has not yet been completed.
