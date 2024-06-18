@@ -14,11 +14,20 @@ prettytable Documentation   ----> 🔗https://code.google.com/archive/p/prettyta
 
 ❤️DAY-17❤️
 
-📝->PascalCase:- allstarting letters of a word in a class name is capitalized.
-  ->cameCase:- The first letter is small and the subsequent starting words are capitalized.
+📝->PascalCase:- all starting letters of a word in a class name is capitalized.
+  ->camelCase:- The first letter is small and the subsequent starting words are capitalized.
   ->snake_case:- all words are separated by a underscore.
 ➡️#Creating a class
  class classsName:
-	#content here if there is no content use pass keywor to avoid errors.
+	#content here if there is no content use pass keyword to avoid errors.
  #Creating a object from the above class
  obj = ClassName()
+➡️Constructors
+__init__:- It is a special method called everytime when an object is created and used to initialize the variables which are frequently used.
+class User:
+    def __init__(self,name,f_name):
+        self.id = '97'
+        self.name = name
+        self.father_name = f_name
+user_1 = User("Yethishwar","Surendhar Rao")
+print(f"My name is {user_1.name}.\nMy father name is {user_1.father_name}.\nRoll no:- {user_1.id}")
