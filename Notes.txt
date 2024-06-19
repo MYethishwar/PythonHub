@@ -29,5 +29,10 @@ class User:
         self.id = '97'
         self.name = name
         self.father_name = f_name
-user_1 = User("Yethishwar","Surendhar Rao")
+user_1 = User("Yethishwar","Surendhar Rao")			
 print(f"My name is {user_1.name}.\nMy father name is {user_1.father_name}.\nRoll no:- {user_1.id}")
+__str__ :- This method in Python classes is primarily used to provide a human-readable string representation of an object. This makes it easier to understand the state and properties of the object when it is printed or converted to a string.
+➡️Method inside the class 
+def method_name(self, parameters):
+	#Code here
+user_1 = User().method_name()   #MEthod is called successully
