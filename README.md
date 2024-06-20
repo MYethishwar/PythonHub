@@ -70,4 +70,8 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 **Description**: Simple real life coffee machine simulator using predefined classes.
 
+### Project 17: [Quiz Game](https://github.com/MYethishwar/PythonHub/tree/main/017-Quiz%20Game(Intermediate)) 👈
+
+**Description**: quiz game with 12 questions implimented using classes and objects of OOP.
+
 ## The Repository is currently in progress and has not yet been completed.
