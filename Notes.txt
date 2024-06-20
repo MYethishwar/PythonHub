@@ -35,4 +35,7 @@ __str__ :- This method in Python classes is primarily used to provide a human-re
 ➡️Method inside the class 
 def method_name(self, parameters):
 	#Code here
-user_1 = User().method_name()   #MEthod is called successully
+user_1 = User().method_name()   #MEthod is called successfully
+❤️The self parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class.
+🔗https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&ab_channel=CoreySchafer 
+              👆Youtube Tutorial for better undersanding of OOPS
