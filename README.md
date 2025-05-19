@@ -2,8 +2,6 @@
 
 Welcome to PythonHub! Below are the projects created up to now:
 
-## Beginner Level Projects
-
 ### Project 1: [Band Name Generator](https://github.com/MYethishwar/PythonHub/tree/main/Band%20Name%20Generator(Beginner)) 👈
 
 **Description**: Generate creative band names by combining random words or user inputs.
@@ -60,8 +58,6 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 **Description**:  The playes has to Guess the person who has more followers each time the user wins the score will be incremented.
 
-## Intermediate Level Projects
-
 ### Project 15: [Coffee Machine](https://github.com/MYethishwar/PythonHub/tree/main/015-Coffee%20Machine(Intermediate)) 👈
 
 **Description**: Simple real life coffee machine simulator using simple understandable english statements.
@@ -74,4 +70,3 @@ Welcome to PythonHub! Below are the projects created up to now:
 
 **Description**: quiz game with 12 questions implimented using classes and objects of OOP.
 
-## The Repository is currently in progress and has not yet been completed.
